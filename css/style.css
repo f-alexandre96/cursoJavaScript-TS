@@ -1,0 +1,12 @@
+.div-1{
+    background-color: pink;
+    border: 5px solid black;
+    width: 200px;
+    padding: 15px;
+    background-image:url();
+    background-size: cover;//ajusta imagem de fundo
+
+}
+.div-2{
+    background-color: aqua;
+}
