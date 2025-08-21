@@ -12,8 +12,7 @@
     **Node.Js, Frameworks e bibliotecas**
 
     Apresentarei o Node JS, Express e o MongoDB (noSQL) para trabalhar com Javascript no Back-end. Apresentarei frameworks e bibliotecas que são padrão no mercado atualmente, como Express (servidor Web) e Mongoose (para modelar bases de dados MongoDB). Também apresentarei em detalhes o sistema de módulos do NodeJS.
-
-**JS Tooling**
+    **JS Tooling**
 
     Falaremos do Babel e Webpack, o que nos permitirá utilizar o sistema de módulos do ES6 em navegadores mais antigos que não teriam suporte para tal.
 
