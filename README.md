@@ -5,18 +5,18 @@
 
     Este curso inclui JavaScript e TypeScript (JS e TS), você vai aprender ambas as linguagens no mesmo pacote.
 
-    **Fundamentos**
+**Fundamentos**
 
     Inicialmente, o aluno aprenderá a utilizar recursos nativos do JavaScript sem a necessidade de utilizar frameworks ou bibliotecas adicionais (Javascript puro, conhecido como Vanilla JS). Trabalharemos tanto no Node.Js (back-end) quanto no navegador (front-end).
 
-    **Node.Js, Frameworks e bibliotecas**
+**Node.Js, Frameworks e bibliotecas**
 
     Apresentarei o Node JS, Express e o MongoDB (noSQL) para trabalhar com Javascript no Back-end. Apresentarei frameworks e bibliotecas que são padrão no mercado atualmente, como Express (servidor Web) e Mongoose (para modelar bases de dados MongoDB). Também apresentarei em detalhes o sistema de módulos do NodeJS.
-    **JS Tooling**
+ **JS Tooling**
 
     Falaremos do Babel e Webpack, o que nos permitirá utilizar o sistema de módulos do ES6 em navegadores mais antigos que não teriam suporte para tal.
 
-    **Projeto #1**
+**Projeto #1**
 
     Também vamos criar um projeto realizando um CRUD (create, read, update e delete) na base de dados mongo com sistema de login real usando sessions (posteriormente com JWT).
 
