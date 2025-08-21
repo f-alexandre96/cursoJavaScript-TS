@@ -1,5 +1,5 @@
 # cursoJavaScript-TS
-    Curso de JavaScript e TypeScript do básico ao avançado (JS e TS) - O curso mais completo sobre todas as nuances do JavaScript você você vai encontrar na atualidade.
+    Curso de JavaScript e TypeScript do básico ao avançado (JS e TS) - O curso mais completo sobre todas as nuances do JavaScript você você vai encontrar na atualidade.  
 
     Aprenda Javascript moderno (ES6+) para front-end (com Webpack, babel, React, React Hooks, Redux, HTML5, CSS3 e mais) e back-end (com Node, Express, MySQL / MariaDB, MongoDB, PostgreSQL, Next.Js, Strapi e mais) e se torne um(a) desenvolvedor(a) full stack.
 
